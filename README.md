@@ -1,6 +1,4 @@
-## namer_app
-
- **Bryan Murcia**
+## namer_app by Bryan Murcia
 
 La aplicación genera nombres que suenan bien, como "newstay", "lightstream", "mainbrake" o "graypine". El usuario puede solicitar otro nombre, marcar como favorito el actual y revisar la lista de nombres favoritos en una página independiente. La app es responsiva y se adapta a distintos tamaños de pantalla..
 
